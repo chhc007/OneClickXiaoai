@@ -17,7 +17,7 @@ Bilibili: 老年人Captain
 
 去https://console.picovoice.ai/ 登入，按照视频教程做一个自己的唤醒词，然后下载，解压，重命名为Wakeup.ppn，然后替换文件夹中的Wakeup.ppn！！！
 
-然后在配置文件set.ini中修改key为你的key！！！！！！视频忘说这一步了。
+然后在配置文件set.ini中修改key为你的key,Key也可以在https://console.picovoice.ai/ 中找到！！视频忘说这一步了。
 
 最后就可以使用设置工具来启动语音监听功能了。
 

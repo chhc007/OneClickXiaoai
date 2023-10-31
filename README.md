@@ -27,5 +27,7 @@ Bilibili: 老年人Captain
 PS：porcupine_params_zh.pv文件是中文模型，如果你希望使用英文唤醒词，请下载官方英文模型然后重命名为porcupine_params_zh.pv替换现有的。https://github.com/Picovoice/porcupine/tree/master/lib/common
 
 ***下载地址：在release中***
+小爱同学pc版安装包：
+链接: https://pan.baidu.com/s/1z3HMChFCT83h3322cyb0xg?pwd=gfu3 提取码: gfu3 复制这段内容后打开百度网盘手机App，操作更方便哦
 
 

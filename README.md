@@ -1,5 +1,5 @@
 # OneClickXiaoai
-一键或者语言快速唤醒PC版小爱同学，全设备兼容
+一键或者语音快速唤醒PC版小爱同学，全设备兼容
 
 Bilibili: 老年人Captain
 
